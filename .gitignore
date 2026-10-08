@@ -1,8 +1,52 @@
-# Xcode
-xcuserdata/
-DerivedData/
-build/
-*.xcuserstate
-*.moved-aside
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Xcode user settings
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+
+# Build output
+build/
+DerivedData/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
 .swiftpm/
+.build/
+# Package.resolved はバージョン固定のためコミットする
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Secrets / environment
+.env
+*.xcconfig.local
+Secrets.swift
+
+# Editors
+.vscode/
+.idea/
+*.swp
