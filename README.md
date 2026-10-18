@@ -1,7 +1,7 @@
 # AR ダンジョン
 
 <!-- デモ動画ができたら、下の画像と動画のリンクを差し替える -->
-[![IMAGE ALT TEXT HERE](https://jphacks.com/wp-content/uploads/2026/07/IMG_5316.png)]([https://www.youtube.com/watch?v=piaNsc6ilBI]([https://youtu.be/x18Ki4CH5r0?si=BsC-A0QOWlnapNFr](https://discord.com/channels/1539235229221523558/1539235230978809959/1561271699075371108))
+[![IMAGE ALT TEXT HERE](https://jphacks.com/wp-content/uploads/2026/07/IMG_5316.png)]([https://youtu.be/x18Ki4CH5r0?si=BsC-A0QOWlnapNFr](https://discord.com/channels/1539235229221523558/1539235230978809959/1561271699075371108))
 https://youtu.be/x18Ki4CH5r0?si=BsC-A0QOWlnapNFr
 アプリのソースコード：[iOS（jphacks/os_2609-iOS）](https://github.com/jphacks/os_2609-iOS)／[Android（jphacks/os_2609-android）](https://github.com/jphacks/os_2609-android)
 
