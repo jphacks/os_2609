@@ -2,7 +2,7 @@
 
 屋内の会場を歩き回ってモンスターを集めて戦う、GPS 不要の AR ゲーム。
 
-[![AR ダンジョン 紹介動画](https://github.com/user-attachments/assets/7835fc73-0134-4352-8289-430c29b403ad)](https://youtu.be/x18Ki4CH5r0)
+[![AR ダンジョン 紹介動画](https://github.com/user-attachments/assets/5f425729-2c37-4573-a817-c97156fbad55)](https://youtu.be/x18Ki4CH5r0)
 
 ▶ [紹介動画を見る(YouTube)](https://youtu.be/x18Ki4CH5r0)
 
