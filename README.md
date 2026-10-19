@@ -1,9 +1,17 @@
 # AR ダンジョン
 
-<!-- デモ動画ができたら、下の画像と動画のリンクを差し替える -->
-[![IMAGE ALT TEXT HERE](https://jphacks.com/wp-content/uploads/2026/07/IMG_5316.png)]紹介動画([https://youtu.be/x18Ki4CH5r0?si=BsC-A0QOWlnapNFr](https://discord.com/channels/1539235229221523558/1539235230978809959/1561271699075371108))
-https://youtu.be/x18Ki4CH5r0?si=BsC-A0QOWlnapNFr
-アプリのソースコード：[iOS（jphacks/os_2609-iOS）](https://github.com/jphacks/os_2609-iOS)／[Android（jphacks/os_2609-android）](https://github.com/jphacks/os_2609-android)
+屋内の会場を歩き回ってモンスターを集めて戦う、GPS 不要の AR ゲーム。
+
+[![AR ダンジョン 紹介動画](https://github.com/user-attachments/assets/7835fc73-0134-4352-8289-430c29b403ad)](https://youtu.be/x18Ki4CH5r0)
+
+▶ [紹介動画を見る(YouTube)](https://youtu.be/x18Ki4CH5r0)
+
+## アプリのソースコード
+
+| プラットフォーム | リポジトリ |
+| --- | --- |
+| iOS | [jphacks/os_2609-iOS](https://github.com/jphacks/os_2609-iOS) |
+| Android | [jphacks/os_2609-android](https://github.com/jphacks/os_2609-android) |
 
 ## 製品概要
 ### 背景(製品開発のきっかけ、課題等）
